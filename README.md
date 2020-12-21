@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 Iam currently Working on [INDOVICE](discord.st/IndoVice) as a Developer
 
-⚡ Fun fact:
+⚡ Fun fact :
 - 👯 I’m also creating a bot for my own [discord server](discord.st/senjawave)
 - :musical_note: I love to hear edm music 
+- 🤔 i'm also make a youtube music video [go check it out !](https://www.youtube.com/channel/UCbSRdIKql2-fG0t-KbkBk_Q)
