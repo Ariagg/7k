@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Iam currently Working on [INDOVICE](https://indovice.online) as a Developer
+Iam currently Working on [INDOVICE](https://indovicerp.com) as a Developer
 
 ⚡ Fun fact :
 - 👯 I’m also creating a bot for my own [discord server](https://discord.st/senjawave)
