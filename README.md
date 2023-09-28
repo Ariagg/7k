@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact :
 - 👯 I’m also creating a bot for my own [discord server](https://discord.st/senjawave)
-- :musical_note: I love to hear edm music 
+- :musical_note: I love to hear music 
 - 🤔 i'm also make a youtube music video [go check it out !](https://www.youtube.com/channel/UCbSRdIKql2-fG0t-KbkBk_Q)
 
 ### LANGUAGE & TOOLS THAT I USED
