@@ -1,6 +1,4 @@
 # Hello There 👋
-
-Just a boring person
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +24,7 @@ I’m student at [UBSI](http://www.bsi.ac.id/) majoring in information systems �
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" href="https://www.linkedin.com/in/ariasatria"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" href="https://www.facebook.com/aria.satria.77"/> 
-  <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="Facebook" width="50" height="50" href="https://www.instagram.com/ariaaaas__"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Facebook" width="50" height="50" href="https://www.instagram.com/ariaaaas__"/>
 </p>
 
 
