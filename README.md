@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m student at [UBSI](http://www.bsi.ac.id/) majoring in information systems 👨‍🎓.  I’m currently learning flutter <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="PHP" width="20" height="20"/> 
+I’m student at [UBSI](http://www.bsi.ac.id/) majoring in information systems 👨‍🎓.  I’m currently learning flutter <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="PHP" width="20" height="20"/>
+
   ⚡ Fun fact :
   - 👯 I’m also creating a bot for my own [discord server](https://discord.st/senjawave)
   - :musical_note: I love to hear music 
@@ -22,9 +23,15 @@ I’m student at [UBSI](http://www.bsi.ac.id/) majoring in information systems �
 
 ### LETS CONNECT ☕
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" href="https://www.linkedin.com/in/ariasatria"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" href="https://www.facebook.com/aria.satria.77"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Facebook" width="50" height="50" href="https://www.instagram.com/ariaaaas__"/>
+  <a href="https://www.linkedin.com/in/ariasatria"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" />
+  </a>
+   <a href="https://www.facebook.com/aria.satria.77">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/> 
+   </a>
+  <a href="https://www.instagram.com/ariaaaas__">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Facebook" width="50" height="50"/>
+  </a>
 </p>
 
 
