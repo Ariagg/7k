@@ -16,15 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I’m student at [UBSI](http://www.bsi.ac.id/) majoring in information systems 👨‍🎓.  I’m currently learning flutter <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="PHP" width="20" height="20"/> 
+  ⚡ Fun fact :
+  - 👯 I’m also creating a bot for my own [discord server](https://discord.st/senjawave)
+  - :musical_note: I love to hear music 
+  - 🤔 i'm also make a youtube music video [go check it out !](https://www.youtube.com/channel/UCbSRdIKql2-fG0t-KbkBk_Q)
 
-⚡ Fun fact :
-- 👯 I’m also creating a bot for my own [discord server](https://discord.st/senjawave)
-- :musical_note: I love to hear music 
-- 🤔 i'm also make a youtube music video [go check it out !](https://www.youtube.com/channel/UCbSRdIKql2-fG0t-KbkBk_Q)
+### LETS CONNECT ☕
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" href="https://www.linkedin.com/in/ariasatria"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" href="https://www.facebook.com/aria.satria.77"/> 
+  <img src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="Facebook" width="50" height="50" href="https://www.instagram.com/ariaaaas__"/>
+</p>
+
 
 ### LANGUAGE & TOOLS THAT I USED
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="50" height="50"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
